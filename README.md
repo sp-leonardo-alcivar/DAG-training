@@ -7,6 +7,7 @@ From the website:
 - Anaconda with python 3.
 
 On the terminal:
+- Pip (sudo apt-get install python3-pip)
 - Rpy2 (pip install rpy2)
 - TZlocal (pip install tzlocal)
 
