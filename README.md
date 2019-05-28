@@ -10,8 +10,8 @@ From the website:
 On the terminal:
 - curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 - python get-pip.py
-- pip install rpy2
-- pip install tzlocal
+- !pip install rpy2
+- !pip install tzlocal
 
 On R:
 - install.packages("BiocManager")
