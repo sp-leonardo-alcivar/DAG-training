@@ -20,3 +20,7 @@ On R:
 - BiocManager::install("Rgraphviz")
 - install.packages("pcalg")
 - install.packages("SMPracticals")
+
+- install.packages("kpcalg")
+- install.packages("gplots")
+- install.packages("igraph")
